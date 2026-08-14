@@ -1,19 +1,14 @@
 ---
-name: 'New Feature or Request '
-about: 새 기능 또는 요구사항 추가 시 작성
-title: "[F/R]"
+name: 작업등록
+about: 수행할 작업을 등록합니다
 labels: task
-assignees: ''
-
 ---
 
-### 작성자
+## 작업 내용
 
+- 
 
-### 새 기능(or 요구사항)
+## 완료 기준
 
-
-### 기능(or 요구사항) 설명
-
-
-### 필요한 이유
+- [ ] 
+- [ ]
